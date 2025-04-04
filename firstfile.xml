@@ -20,4 +20,5 @@ Accept: application/json, text/plain, */*
 Content-Length: 180
 </requestHeader>
   <method class="java.lang.String">POST</method>
+  <stringProp name="HTTPSampler.port">443</stringProp>
 </httpSample>
